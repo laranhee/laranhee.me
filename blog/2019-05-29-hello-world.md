@@ -1,4 +1,5 @@
 ---
+draft: true
 slug: hello-world
 title: Hello
 author: Endilie Yacop Sucipto
